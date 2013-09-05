@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25055E33-D625-4BF9-A183-96917B5198D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Notifauth</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6720663F-348E-4046-8FFC-C7241716AB64</key>
+		<string>ssh://github.com/storz/Notifauth.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Notifauth.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6720663F-348E-4046-8FFC-C7241716AB64</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/storz/Notifauth.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6720663F-348E-4046-8FFC-C7241716AB64</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6720663F-348E-4046-8FFC-C7241716AB64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Notifauth</string>
+		</dict>
+	</array>
+</dict>
+</plist>
